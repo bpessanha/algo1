@@ -1,1 +1,2 @@
-# algo1
+Algorithms and Data Structures I
+Code and study stuff
