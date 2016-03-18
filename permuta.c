@@ -6,5 +6,6 @@ int main(){
     scanf("%d",a);
     printf("input b: ");
     scanf("%d",b);
+    printf("valor a ", a);
 return(0);
 }
